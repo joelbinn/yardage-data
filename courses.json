@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "courses": [
+    {
+      "id": "agest",
+      "name": "Ågesta GK",
+      "holes": [
+        {
+          "number": 1,
+          "green": {
+            "lat": 59.22285977480565,
+            "lng": 18.089482784271244
+          },
+          "par": 4
+        },
+        {
+          "number": 2,
+          "green": null
+        },
+        {
+          "number": 3,
+          "green": null
+        },
+        {
+          "number": 4,
+          "green": null
+        },
+        {
+          "number": 5,
+          "green": null
+        },
+        {
+          "number": 6,
+          "green": null
+        },
+        {
+          "number": 7,
+          "green": null
+        },
+        {
+          "number": 8,
+          "green": null
+        },
+        {
+          "number": 9,
+          "green": null
+        },
+        {
+          "number": 10,
+          "green": null
+        },
+        {
+          "number": 11,
+          "green": null
+        },
+        {
+          "number": 12,
+          "green": null
+        },
+        {
+          "number": 13,
+          "green": null
+        },
+        {
+          "number": 14,
+          "green": null
+        },
+        {
+          "number": 15,
+          "green": null
+        },
+        {
+          "number": 16,
+          "green": null
+        },
+        {
+          "number": 17,
+          "green": null
+        },
+        {
+          "number": 18,
+          "green": null
+        }
+      ]
+    }
+  ]
+}
